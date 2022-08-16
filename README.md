@@ -9,7 +9,7 @@
    <li>Configuração de Modais do Bootstrap para validação;</li>
    <li>Listando todas as despesas e preenchendo na tabela;</li>
    <li>Zerar os campos após cadastro;</li>
-   <li>Filtrando as despesas para consulta;</li>
+   <li>Filtrando as despesas para área de consulta;</li>
    <li>Removendo despesas;</li>
    <li>Aplicação de Modais do bootstrap para verificação de exclusão.</li>
 </ul>
